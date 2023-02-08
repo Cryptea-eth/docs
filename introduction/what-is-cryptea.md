@@ -25,6 +25,6 @@ Businesses can integrate our APIs into their products, and websites. This enable
 
 Individuals can receive payments using their payment links. These could be used to sell resources or offer subscriptions, to customers.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../features/payment-links/" %}
+[payment-links](../features/payment-links/)
 {% endcontent-ref %}

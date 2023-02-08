@@ -4,7 +4,7 @@ description: All you need to get started with Cryptea.
 
 # ☕ Getting started
 
-To get started with Cryptea, here are a few things that'd be essential for Cryptea users:
+To get started with Cryptea, here are two things that'd be essential for Cryptea users:
 
 * A decentralised wallet (e.g Metamask, Trust Wallet)
 * A functional e-mail.

@@ -27,8 +27,8 @@ We've got a dedicated page for this, with images to guide you through the journe
 
 If you've made a mistake while creating your payment link, and need to rectify it, you can refer to this page, where we have dedicated guides for those.
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../product/creating-your-payment-link/editing-your-payment-links.md" %}
+[editing-your-payment-links.md](../product/creating-your-payment-link/editing-your-payment-links.md)
 {% endcontent-ref %}
 
 ### How do I use Cryptea in my own application/website?
@@ -39,6 +39,6 @@ To do this, you'd need to integrate with our APIs and our SDKs (coming soon). Ou
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-### Still got questions?
+### Still, got questions?
 
-Get in touch with us, and we'd provide answers/guide you through.
+Get in touch with us, and we'd provide answers/guide you through. Reach out to us via mail at help@cryptea.me and on Twitter at https://twitter.com/usecryptea
