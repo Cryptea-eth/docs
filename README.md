@@ -10,9 +10,13 @@ Here you'll find all the information you need to get up and running with the Cry
 
 ## Cryptea, briefly
 
-Cryptea is a payment processing software for Crypto payments, aimed at bridging the payment gap between businesses and Web3.
+Cryptea is a payment processing software designed to bridge the gap between traditional businesses and the Web3 ecosystem. We leverage the power of blockchain technologies to enable seamless crypto payments.&#x20;
 
-We use smart contracts to automate payment collection on the Blockchain, enabling Crypto as a payment method.&#x20;
+With Cryptea, businesses can easily set up their wallets and create payment links for transactions. The platform uses smart contracts to automate the collection of payments on the blockchain, thus adding cryptocurrency as a viable payment method for businesses.
+
+Getting started with Cryptea is straightforward. This documentation guides users through account creation, wallet setup, and payment link generation. It also provides a Quick Start guide and an API reference for those looking to integrate Cryptea's functionalities into their existing systems. While the platform currently supports payment links, there are plans to introduce on-ramps and off-ramps soon, further enhancing its capabilities.
+
+Cryptea aims to be a one-stop solution for businesses looking to adopt crypto payments, offering not just the tools, but also the knowledge needed to integrate cryptocurrencies into their payment systems.
 
 ## Want to jump right in?
 
@@ -30,7 +34,7 @@ Jump into the quick start docs and get started with making your first request:
 [quick-start.md](api/quick-start.md)
 {% endcontent-ref %}
 
-## Want to deep dive?
+## Want to dive deep?
 
 Dive a little deeper and start exploring our API reference to get an idea of everything possible with the API:
 
